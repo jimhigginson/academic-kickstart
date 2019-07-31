@@ -2,7 +2,7 @@
 title = "Critical Issues in Head and Neck Oncology - Reconstruction in the Oral Cavity: When and How"
 date = 2018-01-01
 authors = ["James Anthony Higginson", "Prav Praveen", "Timothy Martin", "Sat Parmar"]
-publication_types = ["5"]
+publication_types = ["6"]
 abstract = ""
 featured = false
 publication = "*Critical Issues in Head and Neck Oncology*"
