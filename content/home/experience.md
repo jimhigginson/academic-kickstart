@@ -18,27 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Academic Clinical Fellow---Oral and Maxillofacial Surgery"
+  company = "University of Birmingham"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Birmingham"
+  date_start = "2016-08-03"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+A prestigious joint clinical and academic training programme with a national training number in oral and maxillofacial surgery. Research training and experience was at the Institute of Head and Neck Studies and Education (InHANSE), whilst surgical training was at University Hospitals Birmingham and the Royal Worcestershire Hospital.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Trust Doctor---Oral and Maxillofacial Surgery"
+  company = "City Hospitals Sunderland"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Sunderland"
+  date_start = "2015-08-03"
+  date_end = "2016-08-02"
+  description = """
+A busy district general hospital, with substantial hands on experience in dento-alveolar, trauma and skin cancer surgery. Emergency experience on the first on-call rota.
+"""
 
 +++
