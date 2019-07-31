@@ -15,33 +15,39 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "fa-git-alt"
-  icon_pack = "fab"
-  name = "git"
-  description = "20%"
+  icon = "procedures"
+  icon_pack = "fas"
+  name = "Oral and Maxillofacial Surgery"
+  description = ""
+
+[[feature]]
+  icon = "tooth"
+  icon_pack = "fas"
+  name = "Implant Surgery"
+  description = ""
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "50%"
+  description = ""
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = ""  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+  description = ""
 
 +++
