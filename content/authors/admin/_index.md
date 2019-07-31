@@ -69,7 +69,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Jim Higginson is a PhD student at Imperial College London, and a qualified clinician. His project focuses around the use of phenomic signatures to evaluate oncological margins during transoral robotic surgery for head and neck squamous cell carcinoma. He also has research interests in head and neck osteosarcoma, reconstruction of head and neck defects, and the interplay between metabolomics and transcriptomics in head and neck cancer.
+Jim Higginson is a higher surgical trainee in Oral and Maxillofacial Surgery, currently undertaking a PhD at Imperial College London. His project will assess the use of phenomic signatures to evaluate oncological margins during transoral robotic surgery for head and neck squamous cell carcinoma. 
 
-Jim is an experienced clinician, having undertaken training programmes in the West Midlands, East Yorkshire and the North East of England. His most recent clinical appointment was as an NIHR Academic Clinical Fellow at the Institute of Head and Neck Studies and Education with Professor Hisham Mehanna. He has taken a sabbatical from his ACF, and will return to complete this following his PhD.
+He also has research interests in head and neck osteosarcoma, reconstruction of head and neck defects, and the interplay between metabolomics and transcriptomics in head and neck cancer.
+
 
