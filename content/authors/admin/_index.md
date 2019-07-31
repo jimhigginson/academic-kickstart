@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Clinical Doctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Imperial College London
+  url: "https://www.imperial.ac.uk/department-surgery-cancer"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include head and neck cancer, free flap reconstruction and cancer metabolomics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Head and Neck Cancer
+- Free flap reconstruction
+- Oncophenomics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Head and Neck Oncophenomics
+    institution: Imperial College London
+    year: 2022
+  - course: BDS
+    institution: Newcastle University
+    year: 2015
+  - course: MB BChir
+    institution: University of Cambridge
     year: 2008
+  - course: MA(Cantab) --- Neuroscience
+    institution: University of Cambridge
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +47,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'jim@higginsonsurgical.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jimhigginson
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jimhigginson
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -69,7 +72,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Jim Higginson is a PhD student at Imperial College London, and a qualified clinician. His project focuses around the use of phenomic signatures to evaluate oncological margins during transoral robotic surgery for head and neck squamous cell carcinoma. He also has research interests in head and neck osteosarcoma, reconstruction of head and neck defects, and the interplay between metabolomics and transcriptomics in head and neck cancer.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jim is an experienced clinician, having undertaken training programmes in the West Midlands, East Yorkshire and the North East of England. His most recent clinical appointment was as an NIHR Academic Clinical Fellow at the Institute of Head and Neck Studies and Education with Professor Hisham Mehanna. He has taken a sabbatical from his ACF, and will return to complete this following his PhD.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
