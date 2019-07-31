@@ -15,6 +15,18 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "git-alt"
+  icon_pack = "fab"
+  name = "git"
+  description = "20%"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "50%"
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
