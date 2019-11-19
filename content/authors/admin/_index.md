@@ -16,10 +16,6 @@ role: Clinical Doctoral Fellow
 organizations:
 - name: Imperial College London
   url: "https://www.imperial.ac.uk/phenome-centre/"
-- name: Queen Victoria Hospital, East Grinstead
-  url: "www.qvh.nhs.uk/"
-- name: National Cancer Research Institute Head and Neck Group (Trainee Member)
-  url: "http://csg.ncri.org.uk/ncri_groups/ncri-head-neck-group/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include head and neck cancer, free flap reconstruction and the application of cancer metabolomics to head and neck cancer surgery.
@@ -73,8 +69,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
 Jim Higginson is a higher surgical trainee in Oral and Maxillofacial Surgery, currently undertaking a PhD at Imperial College London. His project will assess the use of phenomic signatures to evaluate oncological margins during transoral robotic surgery for head and neck squamous cell carcinoma. 
 
-He also has research interests in head and neck osteosarcoma, reconstruction of head and neck defects, and the interplay between metabolomics and transcriptomics in head and neck cancer.
+He also has research interests in head and neck osteosarcoma, reconstruction and rehabilitation of head and neck defects, and the interplay between metabolomics and transcriptomics in head and neck cancer.
 
 
