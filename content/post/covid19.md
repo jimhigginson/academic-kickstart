@@ -10,7 +10,7 @@ After a short period of reflection, I have now directed my time and energy into 
 
 In the downtime afforded to me by these clinical commitments, I am also helping my research group at Imperial College in developing a rapid, point-of-care test for COVID-19 using principles repurposed from the technology I was using for intraoperative cancer detection.
 
-I recoginse that I am fortunate in having a way of being productive and occupied, when I know that many are feeling the strain of isolation from leisure, friends and family.
+I recognise that I am fortunate in having a way of being productive and occupied, when I know that many are feeling the strain of isolation from leisure, friends and family.
 
 If you are reading this, I hope that you are staying safe, and staying home.
 
