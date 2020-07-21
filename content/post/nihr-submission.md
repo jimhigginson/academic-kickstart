@@ -41,7 +41,10 @@ If this sounds like the position you're in, I hope this is helpful.
 The first thing I must emphasise is that the most important resource to refer to when preparing your application is the [official guidance](https://www.nihr.ac.uk/explore-nihr/academy-programmes/fellowship-programme.htm).
 Read this thoroughly, and read it over and over again. 
 I must have read it 20 times by the time I pressed `submit`.
-There is a huge amount of information to absorb, and whlist you will probably need help with many parts of it. 
+There is a huge amount of information to absorb, and whlist you will probably need help with many parts of it, it's really worth trying to get your head around it, as it'll facilitate conversations later in ways that aren't really that obvious until they happen.
+
+That said, the official guidance is, in parts, pretty dry and dense, and it can be hard to get a sense of the bigger picture.
+In this article I'll try to bridge that gap and present an overview that clarifies the key tasks and summarises the project plan I undertook.
 
 ## Before starting
 
@@ -57,6 +60,11 @@ There are three main things to add to your application now:
 
 + Confirmation of involvement from Signatories and Participants.
 
+### PPI
+
+### Detailed Budget
+
+### Signatures
 
 
 If, like me, you have spent a long time training to do a particular clinical job, and *no* time training to use complex Higher Education/NHS budgeting sofware and methodology, you will need help for a
