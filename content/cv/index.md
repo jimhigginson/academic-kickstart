@@ -13,21 +13,30 @@ header:
   image: ""
 ---
 
-# Education and Qualifications
+# Research
+
+# Publications
 
 # Positions Held
 
-# Prizes and Awards
+## NCRI Head and Neck Group (2019---)
+
+Trainee member of the National Cancer Research Institute Head and Neck research group, and the Surgery & Localised Therapies Subgroup.
+
+## BAOMS Reconstruction Subspecialty Interest Group (2020---)
+
+Deputy lead of the Reconstruction subspecialty interest group for the British Association of Oral and Maxillofacial Surgeons
 
 # Professional Clinical Experience
+
+# Education and Qualifications
+
+
+# Prizes and Awards
 
 # Clinical Audit
 
 # Quality Improvement Projects
-
-# Research
-
-# Publications
 
 # Teaching and Education
 
