@@ -48,6 +48,9 @@ In this article I'll try to bridge that gap and present an overview that clarifi
 
 ## Before starting
 
+
+
+
 ## Application: Stage I
 
 ## Application: Stage II
