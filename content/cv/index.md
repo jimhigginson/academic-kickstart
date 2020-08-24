@@ -19,6 +19,14 @@ header:
 
 # Research
 
+## Covid-19 metabolomics
+
+## Chemically aware robot
+
+## Head and neck cancer chemically aware robot
+
+## Head and neck cancer lipidomics
+
 # Publications
 
 # Positions Held
