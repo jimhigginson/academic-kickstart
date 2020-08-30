@@ -3,6 +3,7 @@ public/
 .Rproj.user
 .Rproj
 .swp
-.aux
-.log
-.out
+*.aux
+*.log
+*.out
+*.DS_Store
