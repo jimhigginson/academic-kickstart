@@ -3,3 +3,6 @@ public/
 .Rproj.user
 .Rproj
 .swp
+.aux
+.log
+.out
